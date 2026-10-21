@@ -1,0 +1,14 @@
+{
+  "name": "rishabh-growth-partners-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lead submission API for the Rishabh Growth Partners page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "express": "^4.21.2"
+  }
+}
